@@ -3,7 +3,7 @@
 function About() {
     return (
         <>
-            <h1>About my First React Build</h1>
+            <h1>About Us Page</h1>
         </>
     )
 }
